@@ -1,0 +1,8 @@
+django
+djangorestframework
+psycopg2-binary
+requests
+django-cors-headers
+django-filter
+solana==0.35.1
+pyserum
